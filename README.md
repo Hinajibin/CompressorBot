@@ -11,7 +11,7 @@
 - Coz of its Quality encode It takes little time to Compress.
 - For now i set it for maximum 5 Processes at a time.
 - Its Running Without Db so Block /ban /Broadcast Feature is currently Not available.
-- And This Repo is @jibinda 's repo To ise this you need to ask @jibinda.
+- And This Repo is @jibinda 's repo To use this you need to ask @jibinda.
 
 ### Fork Repo Then click on below button of ur fork repo.  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
